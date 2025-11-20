@@ -1,5 +1,5 @@
 [wrap-git]
-url = https://github.com/frida/fadec.git
+url = https://github.com/plawnekjx/fadec.git
 revision = main
 depth = 1
 
